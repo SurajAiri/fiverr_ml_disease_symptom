@@ -19,7 +19,7 @@ pip install -r requirements.txt
 Run Streamlit app
 
 ```
-streamlit run app.py
+streamlit run src/app.py
 ```
 
 Running Jupyter lab for notebook
